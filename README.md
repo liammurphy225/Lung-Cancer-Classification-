@@ -48,6 +48,7 @@ git clone https://github.com/your-username/lung-cancer-prediction.git
 install.packages(c("readr", "readxl", "caret", "randomForest", "pROC", "ggplot2", "reshape2", "tidyverse"))
 
 3. Open Lung_Cancer_Analysis.Rmd in your R IDE (e.g., RStudio).
+   
 
 ### Usage 
 
@@ -62,6 +63,7 @@ View outputs such as:
 Plots: Age distribution, ROC curves, confusion matrices.
 
 Model summaries and evaluation metrics.
+
 
 ### Models and Techniques
 
