@@ -61,6 +61,7 @@ install.packages(c("readr", "readxl", "caret", "randomForest", "pROC", "ggplot2"
 3. Open Lung_Cancer_Analysis.Rmd in your R IDE (e.g., RStudio).
    
 
+
 ### Usage 
 
 Load and preprocess the dataset:
@@ -74,6 +75,7 @@ View outputs such as:
 Plots: Age distribution, ROC curves, confusion matrices.
 
 Model summaries and evaluation metrics.
+
 
 
 ### Models and Techniques
@@ -99,6 +101,8 @@ ROC curve and confusion matrix visualizations provided.
 Linear Discriminant Analysis (LDA):
 
 Used for dimensionality reduction and classification.
+
+
 
 ### Results
 
