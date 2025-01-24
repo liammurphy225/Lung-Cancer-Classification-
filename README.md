@@ -25,9 +25,13 @@ This project aims to predict lung cancer presence using various machine learning
 ### Project Structure
 
 ├── Lung_Cancer_Analysis.Rmd   # R Markdown file for the analysis
+
 ├── survey lung cancer.csv     # Dataset file
+
 ├── README.md                  # Project documentation
+
 ├── results/                   # Directory for outputs and plots
+
 └── models/                    # Directory for saved model objects
 
 ### Dataset
