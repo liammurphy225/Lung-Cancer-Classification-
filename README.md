@@ -9,11 +9,17 @@ This project aims to predict lung cancer presence using various machine learning
 -Overview
 
 -Project Structure
+
 -Dataset
+
 -Installation
+
 -Usage
+
 -Models and Techniques
+
 -Results
+
 -License
 
 ### Project Structure
