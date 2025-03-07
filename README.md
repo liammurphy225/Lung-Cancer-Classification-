@@ -110,11 +110,13 @@ Evaluation Metrics: Accuracy, precision, recall, and F1 score were used to evalu
 
 ROC-AUC:
 
-Logistic Regression: AUC = ...
+Logistic Regression: Accuracy = 0.903172 (0.8224, 0.9543) AUC = 0.8832772 
 
-Random Forest: AUC = ...
+Random Forest: Accuracy = 0.8804 (0.7961, 0.9388) AUC = 0.9444444
 
-KNN: AUC = ...
+KNN:  Accuracy : 0.8804 (0.7961, 0.9388) AUC = 0.6824
+
+LDA:  Accuracy : 0.913 (0.8358, 0.9617) AUC = 0.9057
 
 Variable importance plots highlight key predictors of lung cancer.
 
