@@ -53,7 +53,7 @@ The dataset is provided as survey lung cancer.csv. Ensure it is in the working d
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/lung-cancer-prediction.git
+git clone https://github.com/liammurphy225/lung-cancer-prediction.git
 
 2. Set up the required R environment:
 install.packages(c("readr", "readxl", "caret", "randomForest", "pROC", "ggplot2", "reshape2", "tidyverse"))
